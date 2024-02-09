@@ -5,10 +5,10 @@
 }
 @font-face {
     font-family: Protest_Riot;
-    src: url(/font/Protest_Riot/ProtestRiot-Regular.ttf);
+    src: url(./font/Protest_Riot/ProtestRiot-Regular.ttf);
 }
 body {
-    background-image: url(/images/notebook.png);
+    background-image: url(./images/notebook.png);
 }
 
 h1 {
